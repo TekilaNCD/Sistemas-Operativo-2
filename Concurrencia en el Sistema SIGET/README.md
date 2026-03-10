@@ -1,0 +1,1 @@
+En los sistemas operativos modernos, la concurrencia permite que múltiples procesos o tareas se ejecuten de manera simultánea, compartiendo recursos del sistema de forma eficiente. Este mecanismo es fundamental para garantizar el buen funcionamiento de sistemas que deben procesar grandes volúmenes de información en tiempo real.
